@@ -1,0 +1,17 @@
+{
+  "name": "automated-emails",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^11.0.0",
+    "express": "^4.21.2",
+    "express-fileupload": "^1.5.2",
+    "json2csv": "^6.0.0-alpha.2",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.7.2"
+  }
+}
